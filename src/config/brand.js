@@ -1,7 +1,7 @@
 export const BRAND = {
-  name: "DocDuty",
+  name: "Indeed",
   tagline: "Find your next job",
-  supportEmail: "support@docduty.local",
+  supportEmail: "support@indeed.local",
 };
 
 export default BRAND;

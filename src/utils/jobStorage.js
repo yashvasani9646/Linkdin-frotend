@@ -1,10 +1,10 @@
-const STORAGE_KEY = 'docduty_jobs';
-const SAVED_JOBS_KEY = 'docduty_saved_jobs';
-const APPLIED_JOBS_KEY = 'docduty_applied_jobs';
+const STORAGE_KEY = 'indeed_jobs';
+const SAVED_JOBS_KEY = 'indeed_saved_jobs';
+const APPLIED_JOBS_KEY = 'indeed_applied_jobs';
 
-const LEGACY_STORAGE_KEY = 'indeed_jobs';
-const LEGACY_SAVED_JOBS_KEY = 'indeed_saved_jobs';
-const LEGACY_APPLIED_JOBS_KEY = 'indeed_applied_jobs';
+const LEGACY_STORAGE_KEY = 'docduty_jobs';
+const LEGACY_SAVED_JOBS_KEY = 'docduty_saved_jobs';
+const LEGACY_APPLIED_JOBS_KEY = 'docduty_applied_jobs';
 
 // Custom event names
 export const JOB_POSTED_EVENT = 'job-posted';

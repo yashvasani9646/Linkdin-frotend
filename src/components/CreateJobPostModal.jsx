@@ -122,7 +122,7 @@ const CreateJobPostModal = ({ isOpen, onClose, onPublish }) => {
           </div>
           <h3 className="mb-2 text-xl font-bold text-brand-ink">Recruiter Access Required</h3>
           <p className="mb-6 text-sm leading-relaxed text-ink-muted">
-            Posting jobs is exclusively available for recruiter and employer accounts on DocDuty. Please switch to a recruiter account to post new job openings.
+            Posting jobs is exclusively available for recruiter and employer accounts on Indeed. Please switch to a recruiter account to post new job openings.
           </p>
           <button type="button" onClick={onClose} className="btn btn-primary w-full">
             Close
@@ -260,7 +260,7 @@ const CreateJobPostModal = ({ isOpen, onClose, onPublish }) => {
               <h2 className="text-xl font-bold text-brand-ink tracking-tight">Post a Job</h2>
             </div>
             <p className="text-xs text-ink-muted mt-0.5">
-              Reach thousands of qualified job seekers on DocDuty
+              Reach thousands of qualified job seekers on Indeed
             </p>
           </div>
           <button
