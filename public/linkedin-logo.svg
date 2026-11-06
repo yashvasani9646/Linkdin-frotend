@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 102 26" width="102" height="26" fill="none">
+  <!-- Word "Linked" -->
+  <text x="0" y="21" fill="#0A66C2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="-0.03em">Linked</text>
+  <!-- Official "in" Bug -->
+  <g transform="translate(76, 2)">
+    <rect width="24" height="24" rx="4" fill="#0A66C2"/>
+    <circle cx="5.337" cy="5.368" r="2.065" fill="#FFFFFF"/>
+    <rect x="3.555" y="9" width="3.564" height="11.452" rx="0.5" fill="#FFFFFF"/>
+    <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286z" fill="#FFFFFF"/>
+  </g>
+</svg>
+

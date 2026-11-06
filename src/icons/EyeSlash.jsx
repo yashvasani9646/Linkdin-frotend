@@ -1,0 +1,20 @@
+export const EyeSlash = () => {
+  return (
+    <svg
+      width="20"
+      height="20"
+      viewBox="0 0 20 20"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M17.5 7.5C15.5 9.7225 13 10.8333 10 10.8333C7 10.8333 4.5 9.7225 2.5 7.5M2.5 12.5002L4.58333 9.3335M17.5 12.4802L15.4234 9.3335M7.5 14.1667L7.91667 10.8333M12.5 14.1667L12.0833 10.8333"
+        stroke="#222325"
+        stroke-opacity="0.7"
+        strokeWidth="1.5"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+    </svg>
+  );
+};

@@ -1,0 +1,73 @@
+export const CompanyLogo = () => {
+  return (
+    <svg
+      width="24"
+      height="24"
+      viewBox="0 0 24 24"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M13.4995 20.2485V3.74853C13.4995 3.54962 13.4205 3.35886 13.2798 3.21821C13.1392 3.07755 12.9484 2.99854 12.7495 2.99854H3.74951C3.5506 2.99854 3.35983 3.07755 3.21918 3.21821C3.07853 3.35886 2.99951 3.54962 2.99951 3.74853V20.2485"
+        fill="#0A65CC"
+        fill-opacity="0.1"
+      />
+      <path
+        d="M13.4995 20.2485V3.74853C13.4995 3.54962 13.4205 3.35886 13.2798 3.21821C13.1392 3.07755 12.9484 2.99854 12.7495 2.99854H3.74951C3.5506 2.99854 3.35983 3.07755 3.21918 3.21821C3.07853 3.35886 2.99951 3.54962 2.99951 3.74853V20.2485"
+        stroke="#0A65CC"
+        strokeWidth="1.5"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <path
+        d="M1.5 20.2485H22.5"
+        stroke="#0A65CC"
+        strokeWidth="1.5"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <path
+        d="M20.9995 20.2485V9.74854C20.9995 9.54962 20.9205 9.35886 20.7798 9.21821C20.6392 9.07755 20.4484 8.99854 20.2495 8.99854H13.4995"
+        stroke="#0A65CC"
+        strokeWidth="1.5"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <path
+        d="M5.99951 6.74854H8.99951"
+        stroke="#0A65CC"
+        strokeWidth="1.5"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <path
+        d="M7.49951 12.7485H10.4995"
+        stroke="#0A65CC"
+        strokeWidth="1.5"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <path
+        d="M5.99951 16.4985H8.99951"
+        stroke="#0A65CC"
+        strokeWidth="1.5"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <path
+        d="M16.4995 16.4985H17.9995"
+        stroke="#0A65CC"
+        strokeWidth="1.5"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <path
+        d="M16.4995 12.7485H17.9995"
+        stroke="#0A65CC"
+        strokeWidth="1.5"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+    </svg>
+  );
+};
